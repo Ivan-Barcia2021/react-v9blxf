@@ -45,8 +45,9 @@ Realicé un sitio web que permite administrar los pacientes de una veterinaria, 
 <br></br>
 Link: stackblitz.com/edit/react-vvrmbz
 <br></br>
-<br></br>
 Además, desarrollé otro sitio, el cual tiene como objetivo traer información sobre distintas personas, desde una api. 
+<br></br>
+<img src={'https://cdn.jsdelivr.net/gh/Ivan-Barcia2021/react-v9blxf@master/TP9.PNG'}/>
 <p></p>
 
 
